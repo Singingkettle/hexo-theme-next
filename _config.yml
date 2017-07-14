@@ -620,3 +620,5 @@ images: images
 
 # Theme version
 version: 5.1.1
+
+theme: jekyll-theme-slate
